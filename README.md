@@ -1,5 +1,5 @@
 # Detection of Fractures on X-Ray Bone Images with Deep Learning Methods
-This repository presents the implementation and experimental results of my undergraduate graduation thesis, focusing on the detection and localization of bone fractures in X-ray images using deep learning–based object detection methods.
+This repository presents the implementation and experimental results of my undergraduate graduation thesis, focusing on the detection and localization of bone fractures in X-Ray images using deep learning based object detection methods.
 
 **Project Overview**
 - A custom X-Ray dataset was created by combining publicly available fractured and non fractured bone images from multiple sources.
